@@ -1,4 +1,4 @@
-# Web3-Audit-Bounties
+# Web3-Audit-Bounty-Platform
 
 ## Audit One
 https://auditone.io/
